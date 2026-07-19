@@ -101,4 +101,3 @@ Full-stack, Metacritic-style application for content reviews and ratings.
 - GitHub: [@angelofaraci](https://github.com/angelofaraci)
 - LinkedIn: [angelo-faraci](https://www.linkedin.com/in/angelo-faraci-737339224/)
 - Email: angelofaraci089@yahoo.com
-- Open to collaboration on interesting technical challenges

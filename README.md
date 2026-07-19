@@ -30,6 +30,12 @@ Minimalist URL shortening service built to study cloud integrations.
 - **Repository:** [angelofaraci/url-shortener](https://github.com/angelofaraci/url-shortener)
 - **Focus:** Cloud-oriented architecture (Docker, Terraform, AWS)
 
+### CV Tailor
+AI-powered CV tailoring assistant that structures CVs, rewrites summaries per job posting, and exports Harvard-style PDFs.
+- **Tech Stack:** Next.js, React, TypeScript, Zod, SQLite
+- **Repository:** [angelofaraci/cv-tailor](https://github.com/angelofaraci/cv-tailor)
+- **Purpose:** Intelligent CV customization with explicit approval workflow and version history
+
 ### Academic Prerequisites Bot
 Telegram bot that answers questions about course sequencing for the Systems Engineering program.
 - **Tech Stack:** n8n, Google Sheets, RAG
